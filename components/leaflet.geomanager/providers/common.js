@@ -518,7 +518,7 @@ L.GeoManager.UACadastre = L.GeoManager.ProvidersFactory.createSimpleWMSTileLayer
     , transparent: true
     , crs: L.CRS.EPSG900913
     , maxZoom: 18
-    , attribution: '<a href="http://wikimapia.org" target="_blank">Wikimapia.org</a>'
+    , attribution: '<a href="http://212.26.144.110/kadastrova-karta" target="_blank">ЦДЗК</a>'
 });
 
 /*
